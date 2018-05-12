@@ -1,0 +1,27 @@
+_repo: Sweden_44624
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44624-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nilsson, Victor Alfred
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '42843'
+    url: http://www.gutenberg.org/2009/agents/42843
+description: ''
+gutenberg_issued: '2014-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44624'
+  lccn: '05020752'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DL'
+- !lcsh 'Sweden -- History'
+title: Sweden
+url: http://www.gutenberg.org/ebooks/44624
